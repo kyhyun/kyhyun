@@ -7,9 +7,9 @@
 </a>
 <div algin="center">
   <a align="left" href="https://github.com/anuraghazra/github-readme-stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kyhyun&hide=stars&show_icons=true&count_private=true&theme=tokyonight" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kyhyun&hide=stars&show_icons=true&count_private=true&theme=tokyonight" />
   </a>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyhyun&layout=compact&langs_count=5&theme=tokyonight" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyhyun&layout=compact&langs_count=5&theme=tokyonight" />
 </div>
 
 ### Contacts
