@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**kyhyun/kyhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Yeong Hyeon - FE Developer 💻
+  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyhyun&count_bg=%23939492&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
+<a href="https://solved.ac/k29176">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=k29176"/>
+</a>
+<div algin="center">
+  <a align="left" href="https://github.com/anuraghazra/github-readme-stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kyhyun&hide=stars&show_icons=true&count_private=true&theme=tokyonight" />
+  </a>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyhyun&layout=compact&langs_count=5&theme=tokyonight" />
+</div>
 
-Here are some ideas to get you started:
+### Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-6492DE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k29176@gmail.com)](mailto:k29176@gmail.com)
+
