@@ -13,6 +13,3 @@
 ### Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-6492DE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k29176@gmail.com)](mailto:k29176@gmail.com)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=k29176)](https://solved.ac/k29176)
