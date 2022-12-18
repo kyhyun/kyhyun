@@ -11,5 +11,5 @@
 </div>
 
 ### Contacts
-
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-FE5544?style=flat-square&logo=Tistory&logoColor=white&link=https://readme.tistory.com/)](https://readme.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-6492DE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k29176@gmail.com)](mailto:k29176@gmail.com)
